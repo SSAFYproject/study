@@ -66,3 +66,20 @@
 
 
 # 선택 14. JIRA 활용
+
+- JIRA Project url
+https://jira.ssafy.com/projects/S07P10C234/summary
+![issues2](./issues2.png)
+
+
+- Filter url
+https://jira.ssafy.com/browse/S07P10C234-6?filter=23960
+![filters](./filters.png)
+
+
+- Dashboard url
+https://jira.ssafy.com/secure/Dashboard.jspa?selectPageId=11517
+![dashboard](./dashboard.png)
+
+- Sprints
+![sprints](./sprints.png)
